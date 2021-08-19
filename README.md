@@ -1,4 +1,4 @@
-### Hi there, I'm Wilson 👋
+### Hi there, I'm Wilson Chuks 👋
 - 🔭 I am currently a Masters student in Software Engineering
 - 🌱 I’m always learning new things 🤣
 - 👯 I love helping people and also asking for helps
