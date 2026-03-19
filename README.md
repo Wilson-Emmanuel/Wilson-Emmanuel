@@ -1,6 +1,6 @@
 ### Hi there, I'm Wilson Chuks 👋
 - 🔭 I am a Software Engineer, an algorithm lover and a problem solver
-- 🌱 I’m always learning new things 🤣
+- 🌱 I’m always learning new things 🤗
 - 👯 I love helping people and also asking for helps
 - 👥👥 Team player
 - ⚡ Hobbies: Engineering Software, Music, Piano
